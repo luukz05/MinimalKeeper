@@ -1,0 +1,1 @@
+MinimalKeeper é um gerenciador e gerador de senhas totalmente personalizáveis. Teste suas senhas no nosso testador de senhas e aprenda sobre cibersegurança com as recomendações de artigos e playlists.
