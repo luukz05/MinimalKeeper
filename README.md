@@ -29,13 +29,6 @@ O design do MinimalKeeper foi pensado para ser o mais simples possível, com uma
 ### 6. **Armazenamento Seguro**
 Suas senhas são armazenadas de forma segura, utilizando criptografia de ponta para garantir que suas informações permaneçam protegidas. O MinimalKeeper adota as melhores práticas de segurança para que você possa armazenar suas credenciais com confiança.
 
-## Como Funciona?
-
-1. **Cadastro**: Crie uma conta no MinimalKeeper ou faça login com uma conta existente.
-2. **Geração de Senhas**: Acesse a ferramenta de geração de senhas para criar novas senhas fortes, personalizadas de acordo com suas necessidades.
-3. **Testando Senhas**: Utilize o testador de senhas para avaliar a segurança das senhas que você cria ou já possui.
-4. **Aprenda Sobre Cibersegurança**: Explore a seção de artigos e playlists para melhorar seus conhecimentos sobre segurança online.
-
 ## Como Usar
 
 ### Gerando Senhas
@@ -51,21 +44,6 @@ Suas senhas são armazenadas de forma segura, utilizando criptografia de ponta p
 1. Acesse a seção de **Educação em Cibersegurança**.
 2. Navegue pelos artigos e playlists sugeridos para se manter atualizado sobre as melhores práticas de segurança online.
 
-## Benefícios
-
-- **Segurança Aprimorada**: Geração e teste de senhas seguras para proteger suas contas.
-- **Educação Contínua**: Artigos e vídeos educativos para que você possa aprender constantemente sobre cibersegurança.
-- **Simplicidade**: Interface intuitiva e fácil de usar para gerenciar suas senhas de forma eficiente.
-- **Personalização**: Ajuste as configurações de geração de senhas de acordo com suas preferências pessoais.
-
 ## Contribuindo
 
 Se você deseja contribuir para o desenvolvimento do MinimalKeeper, sinta-se à vontade para abrir uma **issue** ou **pull request**. Agradecemos qualquer contribuição que melhore a experiência de nossos usuários ou adicione novas funcionalidades!
-
-1. Faça um **fork** do repositório.
-2. Crie uma nova branch para sua feature.
-3. Envie um pull request com uma descrição detalhada de suas alterações.
-
-## Licença
-
-O **MinimalKeeper** está sob a licença MIT. Veja o arquivo `LICENSE` para mais detalhes.
